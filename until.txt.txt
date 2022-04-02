@@ -1,1 +1,1 @@
-utility function for version6
+utility function for version6 good one
